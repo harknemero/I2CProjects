@@ -1,0 +1,10 @@
+
+
+
+
+
+Device is in Sealed or Unsealed mode
+	Authentication is required. Default key is:
+		0x0123456789ABCDEFFEDCBA987654321
+
+
